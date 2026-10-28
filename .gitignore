@@ -1,0 +1,11 @@
+data/
+datasets/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+*.log
+.ipynb_checkpoints/
+models/best_model.pt
+models/best_model_previous.pt
